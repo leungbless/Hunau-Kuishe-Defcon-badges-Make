@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Badgelife_Hat_PCB")(type KiCad)(uri "$(KIPRJMOD)/Badgelife_Hat_PCB.pretty")(options "")(descr ""))
+)
